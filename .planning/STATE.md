@@ -1,7 +1,7 @@
 # Project State
 
 ## Current Phase
-Phase 0 — Project initialized, ready to plan Phase 1
+Phase 1 — Complete ✅, ready to plan Phase 2
 
 ## Status
 - [x] Codebase mapped (.planning/codebase/ — 7 documents)
@@ -9,7 +9,7 @@ Phase 0 — Project initialized, ready to plan Phase 1
 - [x] config.json created
 - [x] REQUIREMENTS.md created (12 functional + 4 non-functional requirements)
 - [x] ROADMAP.md created (6 phases)
-- [ ] Phase 1: 文档框架与概述
+- [x] Phase 1: Complete — docs/zh/README.md + 01-overview.md (28/28 checks pass)
 - [ ] Phase 2: 架构与工作流
 - [ ] Phase 3: 技能系统与反合理化
 - [ ] Phase 4: 子智能体与平台适配
@@ -24,4 +24,4 @@ Phase 0 — Project initialized, ready to plan Phase 1
 - 深度覆盖：原理 + 架构 + 实现
 
 ## Next Action
-Run `/gsd:plan-phase 1` to plan Phase 1 (文档框架与概述)
+Run `/gsd:plan-phase 2` to plan Phase 2 (架构与工作流)
