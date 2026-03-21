@@ -1,7 +1,7 @@
 # Project State
 
 ## Current Phase
-Phase 1 — Complete ✅, ready to plan Phase 2
+Phase 2 — Complete ✅, ready to plan Phase 3
 
 ## Status
 - [x] Codebase mapped (.planning/codebase/ — 7 documents)
@@ -10,6 +10,7 @@ Phase 1 — Complete ✅, ready to plan Phase 2
 - [x] REQUIREMENTS.md created (12 functional + 4 non-functional requirements)
 - [x] ROADMAP.md created (6 phases)
 - [x] Phase 1: Complete — docs/zh/README.md + 01-overview.md (28/28 checks pass)
+- [x] Phase 2: Complete — docs/zh/02-architecture.md + 03-workflow.md (29/29 checks pass)
 - [ ] Phase 2: 架构与工作流
 - [ ] Phase 3: 技能系统与反合理化
 - [ ] Phase 4: 子智能体与平台适配
@@ -24,4 +25,4 @@ Phase 1 — Complete ✅, ready to plan Phase 2
 - 深度覆盖：原理 + 架构 + 实现
 
 ## Next Action
-Run `/gsd:plan-phase 2` to plan Phase 2 (架构与工作流)
+Run `/gsd:plan-phase 3` to plan Phase 3 (技能系统与反合理化)
