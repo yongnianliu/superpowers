@@ -1,0 +1,16 @@
+{
+  "project_name": "superpowers-zh-docs",
+  "created": "2026-03-21",
+  "workflow": {
+    "research": true,
+    "requirements": true,
+    "roadmap": true,
+    "auto_commit": true
+  },
+  "preferences": {
+    "language": "zh-CN",
+    "output_dir": "docs/zh",
+    "format": "multi-file-markdown",
+    "diagrams": "mermaid"
+  }
+}
